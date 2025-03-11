@@ -4,19 +4,19 @@
     "url": "https://sh-entertainment.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sh-entertainment.com.ico",
     "slug": "sh-entertainment-main-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 651,
-    "timeDay": 635,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "status": "up",
+    "uptime": "96.44%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "96.44%",
+    "time": 1515,
+    "timeDay": 3235,
+    "timeWeek": 1515,
+    "timeMonth": 1515,
+    "timeYear": 1515,
     "dailyMinutesDown": {
-      "2025-03-11": 1
+      "2025-03-11": 118
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://key.sh-entertainment.com/",
     "icon": "https://icons.duckduckgo.com/ip3/key.sh-entertainment.com.ico",
     "slug": "sh-entertainment-key-manager",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 668,
-    "timeDay": 690,
-    "timeWeek": 668,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "status": "up",
+    "uptime": "96.45%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "96.45%",
+    "time": 654,
+    "timeDay": 635,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-03-11": 1
+      "2025-03-11": 117
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-03-11": 241,
+      "2025-03-11": 357,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 68
