@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sh-entertainment.com.ico",
     "slug": "sh-entertainment-main-website",
     "status": "down",
-    "uptime": "94.61%",
-    "uptimeDay": "71.63%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "94.61%",
+    "uptime": "94.31%",
+    "uptimeDay": "69.49%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "94.31%",
     "time": 1101,
     "timeDay": 579,
     "timeWeek": 1101,
     "timeMonth": 1101,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2025-03-15": 409,
+      "2025-03-15": 439,
       "2025-03-11": 118
     }
   },
@@ -57,7 +57,7 @@
     "timeMonth": 616,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-03-15": 1059,
+      "2025-03-15": 1090,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -72,19 +72,19 @@
     "url": "http://94.156.128.34",
     "icon": "https://icons.duckduckgo.com/ip3/94.156.128.34.ico",
     "slug": "dedicated",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 302,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 313,
+    "timeDay": 298,
+    "timeWeek": 313,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-03-15": 0
+      "2025-03-15": 31
     }
   }
 ]
