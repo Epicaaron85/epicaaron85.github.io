@@ -1,7 +1,7 @@
 url: http://94.156.128.34
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2025-03-15T23:11:43.544Z
+status: down
+code: 503
+responseTime: 262
+lastUpdated: 2025-03-16T16:24:22.602Z
 startTime: 2025-03-08T22:51:32.608Z
 generator: Upptime <https://github.com/upptime/upptime>
